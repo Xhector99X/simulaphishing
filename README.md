@@ -23,6 +23,8 @@ El nombre de usuario del objetivo si se conoce, para que sea más rapido el inic
 
 El mail del atacante donde recibirá los datos capturados.
 
+Al pulsar el botón, se genera un link para enviar al objetivo.
+
 <img width="750" alt="2" src="https://user-images.githubusercontent.com/56514028/206007373-cf6a9d5b-e63b-4578-83aa-a1b11c37e934.PNG">
 
 **Vista de la víctima**
