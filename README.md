@@ -2,11 +2,6 @@
 
 Simulaphising muestra una simulación de todo el ciclo de una estafa de phishing en redes sociales, tiene como objetivo demostrar y concienciar de lo sencillo que es obtener las credenciales de un usuario, ponerse en la piel del atacante preparando su "cebo" y como la víctima cae en el engaño.
 
-Lenguajes y software empleado: 
-HTML - CCS - JS - PHP - Servidor Xampp
-
-Este proyecto se ha creado con fines educativos, con lo cual, el desarrollador no se hace responsable del mal uso que puedan realizar los usuarios con este código.
-
 Para que los correos se envíen al mail del atacante, es necesario configurar xampp previamente (leer el archivo "howenviacorreosxampp").
 
 Capturas de ejecución:
@@ -39,4 +34,9 @@ El usuario al que le llegue el link, introduce sus credenciales y es redirigido 
 Por último llegan al correo configurado antes, el user y pass de la víctima.
 
 <img width="273" alt="4" src="https://user-images.githubusercontent.com/56514028/206007376-5d84a3ff-3dfb-4465-b10c-b0cd10a65c9d.PNG">
+
+Lenguajes y software empleado: 
+HTML - CCS - JS - PHP - Servidor Xampp
+
+Este proyecto se ha creado con fines educativos, con lo cual, el desarrollador no se hace responsable del mal uso que puedan realizar los usuarios con este código.
 
