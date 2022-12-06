@@ -5,9 +5,9 @@ Simulaphising muestra una simulación de todo el ciclo de una estafa de phishing
 Lenguajes y software empleado: 
 HTML - CCS - JS - PHP - Servidor Xampp
 
-Este proyecto se ha creado con fines educativos, con lo cual, el desarrolador no se hace responsable del mal uso que puedan realizar los usuarios con este código.
+Este proyecto se ha creado con fines educativos, con lo cual, el desarrollador no se hace responsable del mal uso que puedan realizar los usuarios con este código.
 
-Para que los correos se envien al mail del atacante, es necesario configurar xampp previamente (leer el archivo "howenviacorreosxampp").
+Para que los correos se envíen al mail del atacante, es necesario configurar xampp previamente (leer el archivo "howenviacorreosxampp").
 
 Capturas de ejecución:
 
@@ -29,7 +29,7 @@ Al pulsar el botón, se genera un link para enviar al objetivo.
 
 **Vista de la víctima**
 
-El usuario al que le llegue el link donde se ha creado el ataque, introduce sus credenciales y es redirigido a un link legítimo (por ejemplo un meme).
+El usuario al que le llegue el link, introduce sus credenciales y es redirigido a un sitio legítimo (por ejemplo un meme).
 
 <img width="311" alt="3" src="https://user-images.githubusercontent.com/56514028/206007375-f9d4cccd-6b4d-4546-855c-14dd44259649.PNG">
 
