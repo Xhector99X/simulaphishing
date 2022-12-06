@@ -7,6 +7,7 @@ HTML - CCS - JS - PHP - Servidor Xampp
 
 Este proyecto se ha creado con fines educativos, con lo cual, el desarrolador no se hace responsable del mal uso que puedan realizar los usuarios con este código.
 
+Capturas de ejecución:
 
 <img width="953" alt="1" src="https://user-images.githubusercontent.com/56514028/206007368-c4def36c-7cb3-4471-b486-d2c0b14de536.PNG">
 
