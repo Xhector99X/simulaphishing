@@ -1,0 +1,24 @@
+Open your compiler (Visual Studio Code)
+
+Locate file path “C:xamppphp” and open the “php.ini” file
+
+Locate [mail function] within the file
+
+Change the values for the following: 
+
+SMTP = smtp.gmail.com
+smtp_port = 587
+sendmail_from = “Gmail username goes here”@gmail.com
+sendmail_path = “”C:xamppsendmailsendmail.exe” -t” – Only needed in a Unix environment
+
+Then, locate file path C:xamppsendmail and open the sendmail.ini file
+Locate [sendmail] within the file
+
+Change the values for the following:
+
+smtp_server = smtp.gmail.com
+smtp_port = 587
+error_logfile = error.log (Some of this code may have been commented out, just remove the; character)
+debug_logfile = debug.log
+auth_username = “enter Gmail username here”@gmail.com
+auth_password= “enter password or oauth password”
